@@ -1,0 +1,3 @@
+[submodule "liquidetl-view"]
+	path = liquidetl-view
+	url = https://github.com/torgge/liquidetl-view.git
